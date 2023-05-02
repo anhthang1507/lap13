@@ -1,0 +1,23 @@
+.bg-img1 {
+  background-color: #0a0a0a;
+  background-size: cover;
+}
+.bg-img2 {
+  background-color: #0a0a0a;
+  background-size: cover;
+}
+.bg-img3 {
+  background-color: #0a0a0a;
+  background-size: cover;
+}
+
+.carousel-indicator button {
+  border-radius: 80%;
+  width: 10px;
+  height: 10px;
+  margin: 0 10px;
+  background-color: gray;
+}
+.carousel-indicator button.active {
+  background-color: blue;
+}
